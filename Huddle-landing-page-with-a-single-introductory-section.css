@@ -1,0 +1,58 @@
+.p {
+    background-color: black;
+    color: white;
+}
+.body {
+    background-color: hsl(257, 40%, 49%);
+}
+.startimg {
+    margin-top: 3%;
+    margin-left: 10%;
+}
+.huddie {
+    margin-top: -2.4%;
+    margin-left: 13%;
+    color: white;
+}
+.imgmobil {
+    border-radius: 4% 15% 8% 15%;
+    margin-left: 15%;
+    margin-top: 10%;
+    width: 100%;
+}
+.div {
+    margin-top: 22%;
+    margin-left: 25%;
+}
+.budli {
+    font-size: 290%;
+    color: white;
+}
+.huddie1 {
+    color: rgba(255, 255, 255, 0.629);
+    margin-top: -1%;
+    margin-left: -0%;
+}
+.registor {
+    border-radius: 45%;
+    padding: 3%;
+    width: 25%;
+    background-color: white;
+}
+.registor:hover {
+    background-color: black;
+    color: white;
+    transition: 1s;
+}
+.div1 {
+    margin-top: 18%;
+    margin-left: 75%;    
+}
+.fesbook {
+    border-radius: 50%;
+    width: 25%;
+}
+.fesbook:hover {
+    transform: rotate(350deg);
+    transition: 0.5s;
+}
